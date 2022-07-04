@@ -1,2 +1,4 @@
 # winni731.github.io
-my personal profile
+
+Please visit my personal profile:
+       https://winni731.github.io/yz_profile/index.html
