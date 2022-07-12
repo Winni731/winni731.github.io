@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Winni731/winni731.github.io/my-portfolio/static/css/main.4b5ecafb.css",
-    "main.js": "/Winni731/winni731.github.io/my-portfolio/static/js/main.7cdaebfd.js",
-    "static/media/bg-texture.png": "/Winni731/winni731.github.io/my-portfolio/static/media/bg-texture.ae64f077b65b8a53b676.png",
-    "static/media/cv.pdf": "/Winni731/winni731.github.io/my-portfolio/static/media/cv.52362a9e677f3e6b58d4.pdf",
-    "static/media/me.png": "/Winni731/winni731.github.io/my-portfolio/static/media/me.cdd6dbe4ecc6818624ac.png",
-    "static/media/project6.jpg": "/Winni731/winni731.github.io/my-portfolio/static/media/project6.e91e08f8fb456184a35e.jpg",
-    "static/media/project4.jpg": "/Winni731/winni731.github.io/my-portfolio/static/media/project4.92d196a862e366cc748c.jpg",
-    "static/media/myPhoto.png": "/Winni731/winni731.github.io/my-portfolio/static/media/myPhoto.4f14b35572b56d368fdc.png",
-    "static/media/project2.jpg": "/Winni731/winni731.github.io/my-portfolio/static/media/project2.3b4fdc78af7887a9babb.jpg",
-    "static/media/project3.jpg": "/Winni731/winni731.github.io/my-portfolio/static/media/project3.c9dfd86295cd226649df.jpg",
-    "static/media/project1.jpg": "/Winni731/winni731.github.io/my-portfolio/static/media/project1.b9d72c78d0ce6937a97a.jpg",
-    "static/media/project5.jpg": "/Winni731/winni731.github.io/my-portfolio/static/media/project5.137450e0782f51016a8c.jpg",
-    "index.html": "/Winni731/winni731.github.io/my-portfolio/index.html",
-    "main.4b5ecafb.css.map": "/Winni731/winni731.github.io/my-portfolio/static/css/main.4b5ecafb.css.map",
-    "main.7cdaebfd.js.map": "/Winni731/winni731.github.io/my-portfolio/static/js/main.7cdaebfd.js.map"
+    "main.css": "/winni731.github.io/my-portfolio/static/css/main.d30e91cc.css",
+    "main.js": "/winni731.github.io/my-portfolio/static/js/main.81550a7b.js",
+    "static/media/bg-texture.png": "/winni731.github.io/my-portfolio/static/media/bg-texture.ae64f077b65b8a53b676.png",
+    "static/media/cv.pdf": "/winni731.github.io/my-portfolio/static/media/cv.52362a9e677f3e6b58d4.pdf",
+    "static/media/me.png": "/winni731.github.io/my-portfolio/static/media/me.cdd6dbe4ecc6818624ac.png",
+    "static/media/project6.jpg": "/winni731.github.io/my-portfolio/static/media/project6.e91e08f8fb456184a35e.jpg",
+    "static/media/project4.jpg": "/winni731.github.io/my-portfolio/static/media/project4.92d196a862e366cc748c.jpg",
+    "static/media/myPhoto.png": "/winni731.github.io/my-portfolio/static/media/myPhoto.4f14b35572b56d368fdc.png",
+    "static/media/project2.jpg": "/winni731.github.io/my-portfolio/static/media/project2.3b4fdc78af7887a9babb.jpg",
+    "static/media/project3.jpg": "/winni731.github.io/my-portfolio/static/media/project3.c9dfd86295cd226649df.jpg",
+    "static/media/project1.jpg": "/winni731.github.io/my-portfolio/static/media/project1.b9d72c78d0ce6937a97a.jpg",
+    "static/media/project5.jpg": "/winni731.github.io/my-portfolio/static/media/project5.137450e0782f51016a8c.jpg",
+    "index.html": "/winni731.github.io/my-portfolio/index.html",
+    "main.d30e91cc.css.map": "/winni731.github.io/my-portfolio/static/css/main.d30e91cc.css.map",
+    "main.81550a7b.js.map": "/winni731.github.io/my-portfolio/static/js/main.81550a7b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b5ecafb.css",
-    "static/js/main.7cdaebfd.js"
+    "static/css/main.d30e91cc.css",
+    "static/js/main.81550a7b.js"
   ]
 }
